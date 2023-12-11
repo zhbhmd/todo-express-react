@@ -1,0 +1,5 @@
+api/node_modules
+api/build
+
+ui/node_modules
+ui/build
